@@ -9,8 +9,8 @@ $ docker-compose up
 test 1 (Normal case):  
 	Entering 200, 400 ,600 km into the control distance km input will receive
  	open_time and close_time as the outputs for each distance.
-	Once the submit button is selected the webpage is cleared for new entries and km, 
-	miles, start date, start time, open time and close time are sent to the database.
+	Once the submit button is selected the webpage is cleared for new entries and 
+	open time and close time are sent to the database.
 	This can be verified in the Javascript Console. Once the display button is clicked
 	a new tab will open with a table of all logged open and close times.
 
