@@ -2,6 +2,7 @@ Editor: Davis Bosworth dboswor2@uoregon.edu
 
 ## Building/Running my Program in terminal
 $ docker-compose build
+
 $ docker-compose up
 
 ## Test Cases
