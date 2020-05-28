@@ -27,10 +27,6 @@ test 2 (Edge case):
 
 Simple list of controle times from project 4 stored in MongoDB database.
 
-## What is in this repository
-
-You have a minimal implementation of Docker compose in DockerMongo folder, using which you can connect the flask app to MongoDB (as demonstrated in class). Refer to the lecture slide "05a-Table-driven.pdf" and "05b-Docker-Compose.pdf" (dated 10/24 and 10/26). You'll also need MongoCommands.txt. Solved acp_times.py file is in piazza under resources tab! 
-
 ## Functionality you'll add
 
 ~Submit clears the webpage for new entries and pushes the current entries to the database.
